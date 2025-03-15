@@ -1,7 +1,7 @@
 # Malvani Tales Restaurant Portfolio Website
   <img src="https://raw.githubusercontent.com/goldstring/malvanitales/main/images/logo.jpg" alt="malvanitales" width="350">
 
-<p>Live Demo: <a href="https://malvanitales.github.io/restaurant/">Click Here</a></p>
+<p>Live Demo: <a target="_blank" href="https://malvanitales.github.io/restaurant/">Click Here</a></p>
 
 ## Overview
 The Malvani Tales Restaurant Portfolio Website is a visually captivating and user-friendly platform that showcases the rich flavors of Malvani cuisine. Built using JavaScript, jQuery, Bootstrap, HTML, and CSS, the website highlights the restaurant’s ambiance, food culture, and customer experiences through an engaging digital presence.
